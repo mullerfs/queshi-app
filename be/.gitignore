@@ -1,0 +1,5 @@
+venv/
+mysql-volume/
+phpmyadmin-volume/
+mysql-conf/
+__pycache__
